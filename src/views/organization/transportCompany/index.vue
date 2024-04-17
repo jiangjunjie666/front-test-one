@@ -118,7 +118,7 @@ export default {
     /** 提交按钮 */
     submitForm: function () {
       this.open = false;
-      this.getList();
+      this.getFirmList();
     },
     //查询承运企业列表
     getFirmList() {
